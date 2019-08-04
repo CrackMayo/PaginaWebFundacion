@@ -18,7 +18,9 @@
     width: 100%;
     text-align: center;
     background-color: #007bff;
-    height: 100px;
+    height: 130px;
+    padding-top: 10px;
+    
 
 }
 
@@ -39,4 +41,12 @@ p{
 .subTlt{
     font-weight: bold;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.footerText{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: white;
+    padding-bottom: 0px;
+    padding-top: 0px;
 }
