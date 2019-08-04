@@ -18,7 +18,7 @@
     width: 100%;
     text-align: center;
     background-color: #007bff;
-    height: 130px;
+    height: 140px;
     padding-top: 10px;
     
 
@@ -28,6 +28,7 @@ h3{
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
 
 p{
     text-align: justify;
@@ -58,7 +59,7 @@ p{
 
 .picture1{
      
-    height: 370px;
+    height: 50%;
     padding-bottom: 10px; 
     display: block;
     margin-left: auto;
@@ -70,9 +71,18 @@ p{
 
 .activities-list{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    padding-top: 10px;
+    padding-top: 23px;
     padding-right: 40px;
-    padding-bottom: 10px;
+    padding-bottom: 23px;
     padding-left: 40px;
 
+}
+
+h5{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 10px;
+    padding-right: 40px;
+    padding-bottom: 23px;
+    padding-left: 40px;
 }
