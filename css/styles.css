@@ -135,3 +135,33 @@ h5{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
   }
+
+
+
+  #contact {
+    background-color: #f8f9fa;
+    background-image: url(../img/map-image.jpg);
+    background-repeat: no-repeat;
+    background-position: center
+  }
+
+  #contact .section-heading {
+    color: #fff;
+  }
+
+  #contact .form-group {
+    margin-bottom: 25px;
+  }
+
+  #contact .form-group input, section#contact .form-group textarea {
+    padding: 20px;
+  }
+
+  #contact .form-group input.form-control {
+    height: auto;
+  }
+  textarea {
+    overflow: auto;
+    resize: vertical;
+    
+}
