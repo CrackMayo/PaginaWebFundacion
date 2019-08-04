@@ -90,6 +90,7 @@ h5{
 .column {
     float: left;
     width: 50%;
+    box-sizing: border-box
   }
   
   /* Clear floats after the columns */
@@ -107,4 +108,10 @@ h5{
     padding-bottom: 10px;
     padding-left: 40px;
     font-weight: bold;
+  }
+
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
   }
