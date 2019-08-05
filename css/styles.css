@@ -1,11 +1,11 @@
 #facebook{
-    width: 60px; 
-    height: 45px; 
+    width: 50px; 
+    height: 35px; 
 }
 
 #youtube{
-  width: 60px; 
-  height: 45px; 
+  width: 50px; 
+  height: 35px; 
 }
 
 #mainPicture{
@@ -25,7 +25,7 @@
     background-color: #007bff;
     height: 140px;
     padding-top: 10px;
-    
+
 
 }
 
@@ -95,7 +95,6 @@ h5{
 .column {
     float: left;
     width: 50%;
-    
   }
   
   /* Clear floats after the columns */
@@ -144,15 +143,12 @@ h5{
 
 
   #contact {
-    background-color: #f8f9fa;
-    background-image: url(../img/map-image.jpg);
+    
     background-repeat: no-repeat;
     background-position: center
   }
 
-  #contact .section-heading {
-    color: #fff;
-  }
+  
 
   #contact .form-group {
     margin-bottom: 25px;
@@ -169,4 +165,39 @@ h5{
     overflow: auto;
     resize: vertical;
     
-}
+  }
+  
+  #contact{
+    padding-top: 25px;
+  }
+
+
+
+
+
+  #sendMessageButton{
+    padding-bottom: 40px;
+  }
+
+  #map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+  }
+  #map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    padding-bottom: 40px;
+    position:absolute;
+    padding-top: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  #whatsapp{
+    height: 40px;
+    width: 25x;
+  }
