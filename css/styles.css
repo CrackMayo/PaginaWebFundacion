@@ -23,10 +23,10 @@
     width: 100%;
     text-align: center;
     background-color: #007bff;
-    height: 140px;
+    height: 100px;
     padding-top: 10px;
-
-
+    position:relative;
+  ;
 }
 
 h3{
@@ -201,3 +201,11 @@ h5{
     height: 40px;
     width: 25x;
   }
+
+  .logo{
+    width: 50%;
+    height: 50%;
+  }
+
+  
+  
