@@ -129,7 +129,7 @@ h5{
 
   #questions{
     padding-top: 30px;
-    padding-bottom: 40px;
+    
   }
 
   .picture2{
@@ -145,6 +145,7 @@ h5{
   #tltGaleria{
     font-family: 'Roboto', sans-serif;
     font-family: 'Open Sans', sans-serif;
+    padding-top: 30px;
 
   }
 
@@ -267,7 +268,7 @@ h5{
     
     
     .close {
-    text-decoration:none;float:right;font-size:24px;font-weight:bold;color:white
+    text-decoration:none;float:right;font-size:30px;font-weight:bold;color:white
     }
     .containerPic {
     width:200px;
@@ -293,5 +294,8 @@ h5{
         to {transform:scale(1)}
     }
     
+    .galeria{
+      padding-bottom: 30px;
+    }
   
   
