@@ -299,4 +299,8 @@ h5{
     .galeria{
       padding-bottom: 30px;
     }
+
   
+    .btn-primary {
+      background-color: #380DAF !important;
+    }
